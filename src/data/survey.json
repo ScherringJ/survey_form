@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "question": "How do you like our products ?",
+        "val": 3
+    },
+    {
+        "id": 2,
+        "question": "How do you like our company ?",
+        "val": 3
+    },
+    {
+        "id": 3,
+        "question": "How did you like our survey ?",
+        "val": 3
+    }
+]

@@ -4,6 +4,8 @@
     "module": "esnext",
     "baseUrl": "./",
     "moduleResolution": "node",
+    "allowJs": true,
+    "resolveJsonModule": true,
     "paths": {
       "@/*": [
         "src/*"
